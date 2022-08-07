@@ -4,7 +4,7 @@
 
 <code>🧻 Projects: [Preview](https://github.com/fufic123/projects-preview)</code>
 
-<code>🧑‍💻 Languages: Python C++</code>
+<code>🧑‍💻 Languages: Python, C++</code>
 <code>📦 Tech stack: django, flask</code>
 
 <code>💬 telegram: [@fufic123](https://telegram.me/fufic123)</code>
