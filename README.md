@@ -6,7 +6,7 @@
 <code>📦 Tech stack: django, flask</code>
 
 <code>💬 telegram: [@fufic123](https://telegram.me/fufic123)</code>
-<code>📫 [semenovmark07@gmail.com](mailto:semenovmark07@gmail.com)</code><br>
+<code>📫 Email: [semenovmark07@gmail.com](mailto:semenovmark07@gmail.com)</code><br>
 
 <code>🔵 linkedin: [Mark Semenov](https://www.linkedin.com/in/mark-semenov-532892237/) </code>
 
