@@ -1,5 +1,3 @@
-<code>🤙 Community: [StudyBoddy](#)</code>
-
 <code>👾 Speciality: Backend developer / Software engineer</code><br>
 
 <code>🧻 Projects: [Preview](https://github.com/fufic123/projects-preview)</code>
