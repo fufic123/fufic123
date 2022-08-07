@@ -2,7 +2,7 @@
 
 <code>🧻 Projects: [Preview](https://github.com/fufic123/projects-preview)</code>
 
-<code>🧑‍💻 Languages: Python, C++, JavaScript</code>
+<code>🧑‍💻 Languages: Python, JavaScript, C++</code>
 <code>📦 Tech stack: django, react</code>
 
 <code>💬 telegram: [@fufic123](https://telegram.me/fufic123)</code>
