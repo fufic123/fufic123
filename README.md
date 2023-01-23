@@ -2,8 +2,8 @@
 
 <code>🧻 Projects: [Preview](https://github.com/fufic123/projects-preview)</code>
 
-<code>🧑‍💻 Languages: Python, JavaScript, C++</code>
-<code>📦 Tech stack: django, django Rest Api Framework, flask</code>
+<code>🧑‍💻 Languages: Python, Swift, JavaScript, C++</code>
+<code>📦 Tech stack: django, django Rest Api Framework</code>
 
 <code>💬 telegram: [@fufic123](https://telegram.me/fufic123)</code>
 <code>📫 Email: [semenovmark07@gmail.com](mailto:semenovmark07@gmail.com)</code><br>
