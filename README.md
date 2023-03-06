@@ -1,7 +1,5 @@
 <code>👾 Speciality: Fullstack developer / Software engineer</code><br>
 
-<code>🧻 Projects: [Preview](https://github.com/fufic123/projects-preview)</code>
-
 <code>🧑‍💻 Languages: Python, Swift, JavaScript, C++</code>
 <code>📦 Tech stack: django, django Rest Api Framework</code>
 
