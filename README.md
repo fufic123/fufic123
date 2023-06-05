@@ -2,7 +2,7 @@
 
 <code>🧑‍💻 Languages: Python, Swift, JavaScript, C++</code>
 
-<code>📦 Tech stack: django, django Rest Api Framework</code>
+<code>📦 Tech stack: django, django Rest Framework</code>
 
 <code>💬 telegram: [@fufic123](https://telegram.me/fufic123)</code>
 
