@@ -1,6 +1,6 @@
 <code>👾 Speciality: Fullstack developer / Software engineer</code><br>
 
-<code>🧑‍💻 Languages: Python, Swift, JavaScript, C++</code>
+<code>🧑‍💻 Languages: Python, JavaScript, C++</code>
 
 <code>📦 Tech stack: django, django Rest Framework</code>
 
