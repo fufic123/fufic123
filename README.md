@@ -8,5 +8,3 @@
 
 <code>📫 Email: [semenovmark07@gmail.com](mailto:semenovmark07@gmail.com)</code><br>
 
-<code>🔵 linkedin: [Mark Semenov](https://www.linkedin.com/in/mark-semenov-532892237/) </code>
-
