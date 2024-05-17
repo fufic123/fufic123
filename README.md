@@ -1,8 +1,8 @@
 <code>👾 Speciality: Fullstack developer / Software engineer</code><br>
 
-<code>🧑‍💻 Languages: Python, JavaScript, C++</code>
+<code>🧑‍💻 Languages: Python, JavaScript, C++, C#</code>
 
-<code>📦 Tech stack: django, django Rest Framework</code>
+<code>📦 Tech stack: django, django Rest Framework, .NET</code>
 
 <code>💬 telegram: [@fufic123](https://telegram.me/fufic123)</code>
 
