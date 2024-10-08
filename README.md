@@ -1,8 +1,8 @@
-<code>👾 Speciality: Fullstack developer / Software engineer</code><br>
+<code>👾 Speciality: Backend developer / Software engineer</code><br>
 
-<code>🧑‍💻 Languages: Python, JavaScript, C++, C#</code>
+<code>🧑‍💻 Languages: Python, C++, C#</code>
 
-<code>📦 Tech stack: django, django Rest Framework, .NET Framework, Telethon, HTML, HTMX, CSS, SCSS, Selenium, PyTest, Celery, Docker Compose</code>
+<code>📦 Tech stack: django, django Rest Framework, .NET Framework, HTML, HTMX, CSS, Celery, Redis, Docker Compose</code>
 
 <code>💬 telegram: [@fufic123](https://telegram.me/fufic123)</code>
 
