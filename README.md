@@ -2,7 +2,7 @@
 
 <code>🧑‍💻 Languages: Python, C++, C#</code>
 
-<code>📦 Tech stack: django, django Rest Framework, .NET Framework, HTML, HTMX, CSS, Celery, Redis, Docker Compose</code>
+<code>📦 Tech stack: django, django Rest Framework, FastApi, HTML, HTMX, CSS, Celery, Redis, Docker Compose</code>
 
 <code>💬 telegram: [@fufic123](https://telegram.me/fufic123)</code>
 
